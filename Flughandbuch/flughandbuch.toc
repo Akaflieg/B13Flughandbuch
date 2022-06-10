@@ -1,0 +1,76 @@
+\contentsline {chapter}{Berichtigungsstand}{5}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Allgemeines}{6}{chapter.1}
+\contentsline {section}{\numberline {1.1}Einf\IeC {\"u}hrung}{6}{section.1.1}
+\contentsline {section}{\numberline {1.2}Zulassungsbasis}{6}{section.1.2}
+\contentsline {section}{\numberline {1.3}Hinweisstellen}{7}{section.1.3}
+\contentsline {section}{\numberline {1.4}Beschreibung und technische Daten}{7}{section.1.4}
+\contentsline {section}{\numberline {1.5}Dreiseitenansicht}{10}{section.1.5}
+\contentsline {chapter}{\numberline {2}Betriebsgrenzen und Angaben}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}Einf\IeC {\"u}hrung}{11}{section.2.1}
+\contentsline {section}{\numberline {2.2}Fluggeschwindigkeiten}{11}{section.2.2}
+\contentsline {section}{\numberline {2.3}Anzeigefehler in der Fahrtmesseranlage}{14}{section.2.3}
+\contentsline {section}{\numberline {2.4}\IeC {\"U}berziehgeschwindigkeiten}{14}{section.2.4}
+\contentsline {section}{\numberline {2.5}Fahrtmessermarkierungen}{16}{section.2.5}
+\contentsline {section}{\numberline {2.6}Triebwerk}{17}{section.2.6}
+\contentsline {section}{\numberline {2.7}Triebwerksinstrumente}{18}{section.2.7}
+\contentsline {section}{\numberline {2.8}Masse (Gewicht)}{19}{section.2.8}
+\contentsline {section}{\numberline {2.9}Schwerpunkt}{19}{section.2.9}
+\contentsline {subsection}{\numberline {2.9.1}W\IeC {\"a}gebericht}{20}{subsection.2.9.1}
+\contentsline {section}{\numberline {2.10}Zugelassene Man\IeC {\"o}ver}{20}{section.2.10}
+\contentsline {section}{\numberline {2.11}Man\IeC {\"o}verlastvielfache}{20}{section.2.11}
+\contentsline {section}{\numberline {2.12}Flugbesatzung}{21}{section.2.12}
+\contentsline {section}{\numberline {2.13}Betriebsarten}{21}{section.2.13}
+\contentsline {section}{\numberline {2.14}Mindestausr\IeC {\"u}stung}{21}{section.2.14}
+\contentsline {section}{\numberline {2.15}Flugzeugschlepp und Windenschlepp}{22}{section.2.15}
+\contentsline {section}{\numberline {2.16}Hinweisschilder}{23}{section.2.16}
+\contentsline {chapter}{\numberline {3}Notverfahren}{26}{chapter.3}
+\contentsline {section}{\numberline {3.1}Einf\IeC {\"u}hrung}{26}{section.3.1}
+\contentsline {section}{\numberline {3.2}Abwerfen der Kabinenhaube}{26}{section.3.2}
+\contentsline {section}{\numberline {3.3}Notausstieg}{27}{section.3.3}
+\contentsline {section}{\numberline {3.4}Beenden des \IeC {\"u}berzogenen Flugzustands}{27}{section.3.4}
+\contentsline {section}{\numberline {3.5}Beenden des Trudelns}{28}{section.3.5}
+\contentsline {section}{\numberline {3.6}Beenden des Spiralsturzes}{29}{section.3.6}
+\contentsline {section}{\numberline {3.7}Notlandungen}{29}{section.3.7}
+\contentsline {subsection}{\numberline {3.7.1}Notlandung mit eingezogenem Fahrwerk}{29}{subsection.3.7.1}
+\contentsline {subsection}{\numberline {3.7.2}Notlandung auf dem Wasser}{29}{subsection.3.7.2}
+\contentsline {subsection}{\numberline {3.7.3}Drehlandung (\active@dq \dq@prtct {`}Ringelpietz\active@dq \dq@prtct {'})}{30}{subsection.3.7.3}
+\contentsline {section}{\numberline {3.8}Flug im Bereich von Gewittern}{31}{section.3.8}
+\contentsline {section}{\numberline {3.9}Flug bei Regen}{31}{section.3.9}
+\contentsline {section}{\numberline {3.10}Flug bei Vereisungsbedingungen}{31}{section.3.10}
+\contentsline {section}{\numberline {3.11}Systemausf\IeC {\"a}lle}{32}{section.3.11}
+\contentsline {chapter}{\numberline {4}Normale Betriebsverfahren}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Einf\IeC {\"u}hrung}{33}{section.4.1}
+\contentsline {section}{\numberline {4.2}Montageverfahren}{33}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Aufr\IeC {\"u}sten}{33}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Abr\IeC {\"u}sten}{36}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}T\IeC {\"a}gliche Kontrolle}{36}{section.4.3}
+\contentsline {section}{\numberline {4.4}Vorflugkontrolle}{38}{section.4.4}
+\contentsline {section}{\numberline {4.5}Normalverfahren und empfohlene Geschwindigkeiten}{38}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Windenstart}{38}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Flugzeugschlepp}{39}{subsection.4.5.2}
+\contentsline {subsection}{\numberline {4.5.3}Freier Flug}{40}{subsection.4.5.3}
+\contentsline {subsection}{\numberline {4.5.4}Benutzen des Triebwerks w\IeC {\"a}hrend des Fluges}{42}{subsection.4.5.4}
+\contentsline {subsection}{\numberline {4.5.5}Landeanflug}{43}{subsection.4.5.5}
+\contentsline {chapter}{\numberline {5}Flugleistungen}{45}{chapter.5}
+\contentsline {section}{\numberline {5.1}Einf\IeC {\"u}hrung}{45}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Nachgewiesene Seitenwindkomponenten}{46}{subsection.5.1.1}
+\contentsline {section}{\numberline {5.2}Geschwindigkeitspolare}{46}{section.5.2}
+\contentsline {section}{\numberline {5.3}Gleitzahlpolare}{47}{section.5.3}
+\contentsline {section}{\numberline {5.4}Leistungsoptimale W\IeC {\"o}lbklappenbedienung}{49}{section.5.4}
+\contentsline {chapter}{\numberline {6}Beschreibung d. Motorseglers, seiner Systeme und Anlagen}{50}{chapter.6}
+\contentsline {section}{\numberline {6.1}Einf\IeC {\"u}hrung}{50}{section.6.1}
+\contentsline {section}{\numberline {6.2}Bedienorgane}{50}{section.6.2}
+\contentsline {section}{\numberline {6.3}Fahrwerk}{51}{section.6.3}
+\contentsline {section}{\numberline {6.4}Instrumentierung}{51}{section.6.4}
+\contentsline {section}{\numberline {6.5}Bremsklappen}{51}{section.6.5}
+\contentsline {section}{\numberline {6.6}Gep\IeC {\"a}ckraum}{51}{section.6.6}
+\contentsline {section}{\numberline {6.7}Triebwerksanlage}{52}{section.6.7}
+\contentsline {section}{\numberline {6.8}Faltpropeller}{53}{section.6.8}
+\contentsline {chapter}{\numberline {7}Pflege und Instandhaltung}{55}{chapter.7}
+\contentsline {section}{\numberline {7.1}Einf\IeC {\"u}hrung}{55}{section.7.1}
+\contentsline {section}{\numberline {7.2}\IeC {\"A}nderungen oder Reparaturen}{55}{section.7.2}
+\contentsline {section}{\numberline {7.3}Handhabung am Boden/Stra\IeC {\ss }entransport}{56}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Ziehen/Schieben}{56}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}Abstellen und Lagern}{57}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.3}Vorbereitung auf den Stra\IeC {\ss }entransport}{57}{subsection.7.3.3}
+\contentsline {section}{\numberline {7.4}Reinigung und Pflege}{58}{section.7.4}

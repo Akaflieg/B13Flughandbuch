@@ -1,0 +1,137 @@
+\documentclass[a5paper,oneside,openany,headings=small]{scrbook}
+\usepackage[utf8]{inputenc}
+%\usepackage[latin1]{inputenc}
+\usepackage[T1]{fontenc} 
+\usepackage[top = 2cm, left = 2cm, right = 2cm, bottom = 3cm]{geometry}
+\usepackage{ngerman,graphicx,color,cancel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{listings} %code einbinden
+\usepackage{subfig}
+\usepackage[subfigure]{tocloft}
+\usepackage{float}
+\usepackage{pdfpages}
+\usepackage[automark]{scrpage2}
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{sectsty}
+\usepackage{array}\setlength{\extrarowheight}{2pt}
+\usepackage{longtable}
+\usepackage{xcolor}
+\usepackage{array}
+\usepackage{hyperref}
+
+\definecolor{forestgreen}{rgb}{0.0,0.4,0.0}
+
+\definecolor{myyellow}{HTML}{d4d400}
+
+\definecolor{Purple}{rgb}{128, 0, 128}
+
+\newcommand{\MyHookSign}{\hbox{\ensuremath\hookleftarrow}}
+
+
+
+
+\automark[chapter]{chapter}
+%\automark[chapter]{section}
+
+%\deftripstyle{Flughandbuch}[0pt][1pt]{}{}{\pagemark}{Flughandbuch B12}{}{Akaflieg Berlin e.V.}
+\deftripstyle{Flughandbuch}[.5pt][.5pt]{\pagemark}{}{\headmark}{Flug- und Betriebshandbuch B13}{}{05.2013}
+\pagestyle{Flughandbuch}
+\renewcommand*\chapterpagestyle{Flughandbuch}
+
+\begin{document}
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace{2cm}
+\begin{center}
+\textbf{Flug- und Betriebshandbuch für den Motorsegler}
+\end{center}
+\begin{center}
+\huge{\textbf{B13}}\\
+\end{center}
+\begin{center}
+Ausgabe 05.2013
+\end{center}
+\begin{center}
+\begin{tabular}{|c|}
+\hline
+Dieses Handbuch ist stets an Bord mitzuführen\\
+\hline
+
+\end{tabular}
+\end{center}
+
+
+
+
+\begin{figure}[h]
+\begin{center}
+\includegraphics[width=0.3\textwidth]{charlotte.png}
+\end{center}
+\end{figure}
+
+\begin{tabular}{l l}
+Werknummer & 001\\
+ & \\
+Kennzeichen & D-KILU\\
+ & \\
+
+  Hersteller & Akademische Fliegergruppe Berlin e.V.\\
+  & Straße des 17. Juni 135\\
+  & 10623 Berlin\\
+
+\end{tabular}\\  
+\newline
+Die mit "`LBA-anerkannt"' gekennzeichneten Blätter sind anerkannt vom Luftfahrtbundesamt, Bundesrepublik Deutschland.\\
+Diese Blätter sind auf weißem bzw. rotem Papier gedruckt. Rot kennzeichnet die Notverfahren. Wichtige Stellen sind farblich hervorgehoben.\\
+\newline
+Unterschrift:\\
+\newline
+Stempel:\\
+\newline
+Datum der Anerkennung:
+\end{titlepage}
+\newpage
+\mbox{} \thispagestyle{empty}
+\newpage
+\pagenumbering{Roman}
+%\newpage
+\setlength\parindent{0pt}
+\tableofcontents
+\newpage
+\thispagestyle{empty}
+\pagenumbering{arabic}
+\input{kapitel1.tex}
+\input{kapitel2.tex}
+\input{kapitel3.tex}
+\input{kapitel4.tex}
+\input{kapitel5.tex}
+%\input{kapitel6.tex}
+\input{kapitel7.tex}
+\input{kapitel8.tex}
+%\input{kapitel9.tex}
+%\input{appendix}
+%\textbf{Betriebshandbuch}
+
+%\begin{thebibliography}{breitestes Label}
+%\bibitem{Aero} Prof. Dr.-Ing. W. Nitsche, {\sl - Gasdynamik I Skript -},
+%Sommersemester 2010
+%%\bibitem{Versuchsanlagen} Prof. Dr.-Ing. W. Nitsche und Dr.-Ing. A. Brunn, {\sl - 	Strömungsmesstechnik-},
+%%2006, 2. Auflage
+%\bibitem{windkanal} http://aero.ilr.tu-berlin.de/bilder/logo.gif, 
+%28.06.2011
+%\end{thebibliography}
+
+\appendix
+%\section{MatlabCode - Aufgabe 1}
+
+\end{document} 
+
+
+
+
+
+
+
