@@ -37,7 +37,7 @@
 %\automark[chapter]{section}
 
 %\deftripstyle{Flughandbuch}[0pt][1pt]{}{}{\pagemark}{Flughandbuch B12}{}{Akaflieg Berlin e.V.}
-\deftripstyle{Flughandbuch}[.5pt][.5pt]{\pagemark}{}{\headmark}{Flug- und Betriebshandbuch B13}{}{05.2013}
+\deftripstyle{Flughandbuch}[.5pt][.5pt]{\pagemark}{}{\headmark}{Flug- und Betriebshandbuch B13}{}{06.2022}
 \pagestyle{Flughandbuch}
 \renewcommand*\chapterpagestyle{Flughandbuch}
 
@@ -95,6 +95,26 @@ Datum der Anerkennung:
 \end{titlepage}
 \newpage
 \mbox{} \thispagestyle{empty}
+
+\newpage
+\thispagestyle{empty}
+% Revisionstabelle
+\section*{Revisionstabelle}
+
+\begin{table}[H]
+	\centering
+	\begin{tabular}{c|c|c|c}
+		& \textbf{Name} & \textbf{Datum} & \textbf{Unterschrift}\\
+		\hline
+		Erstellt & Peter Hofmann & 05.2013 & \\
+		\hline
+		Geändert & Philip Döring & 06.2022 & 
+	\end{tabular}
+\end{table}
+
+\newpage
+\thispagestyle{empty}
+
 \newpage
 \pagenumbering{Roman}
 %\newpage
