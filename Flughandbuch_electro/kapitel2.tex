@@ -48,19 +48,21 @@ Stellen Sie sicher, dass Ihre gewählte Start- und Stopp- Geschwindigkeit des Mo
 \end{color}\\
 \newpage
 \section{Anzeigefehler in der Fahrtmesseranlage}
-Die folgenden Angaben sind als die berichtigten Fluggeschwindigkeiten (VCAS) über der angezeigten Fluggeschwindigkeit (VIAS) dargestellt. Es wurde dabei ein Instrumentenfehler gleich Null angenommen. Die Darstellung erfasst weiterhin alle Flügelklappen"-stellungen und deckt den entsprechenden Geschwindigkeitsbereich ab.\\
+Die folgenden Angaben sind als die berichtigten Fluggeschwindigkeiten $v_{CAS}$ über der Differenz zur angezeigten Fluggeschwindigkeit $v_{IAS}$ dargestellt. Es wurde dabei ein Instrumentenfehler gleich Null angenommen. Die Darstellung erfasst weiterhin alle Flügelklappen"-stellungen und deckt den entsprechenden Geschwindigkeitsbereich ab.\\
 \newline
 Die Druckentnahme erfolgt durch eine Kombidüse an der Nase vom Seitenleitwerk.\\
 \newline
-\includegraphics[width=.9\textwidth]{fahrtmesserkalibrierung.png}
+\includegraphics[width=\textwidth]{Fahrtmesserkalibrierung2.png}
 \newline
 Der Fehler der Fahrtmesseranlage beträgt nicht mehr als $8 \frac{km}{h}$ bzw. $5\%$ und erfüllt damit die Anforderungen der JAR 22 (siehe JAR 22.1323).
 
 \section{Überziehgeschwindigkeiten}
 
-Die folgenden Überziehgeschwindigkeiten wurden bei einem Abfluggewicht von $\unit[820]{kg}$ und vorderster Schwerpunktlage ermittelt:
+Die folgenden Überziehgeschwindigkeiten \textbf{ohne Motor} wurden bei einem Abfluggewicht von $\unit[820]{kg}$ und vorderster Schwerpunktlage ermittelt:\\
 
-\begin{tabular}{l l l}
+\textbf{Ohne Motor:}
+
+\begin{longtable}{l l l}
 WK $-2$ & & \\
 & Geradeaus: & $\unit[78]{\frac{km}{h}}$\\
 & $5^{\circ}$ schiebend: & $\unit[78]{\frac{km}{h}}$\\
@@ -101,7 +103,57 @@ WK L& & \\
 & $5^{\circ}$ schiebend: & $\unit[75]{\frac{km}{h}}$\\
 & $45^{\circ}$-Kurve: & $\unit[88]{\frac{km}{h}}$\\
 & geradeaus, Bremsklappe + Fahrwerk aus: & $\unit[78]{\frac{km}{h}}$ \\
-\end{tabular}
+\end{longtable}
+
+Die folgenden Überziehgeschwindigkeiten \textbf{mit Motor} wurden bei einem Abfluggewicht von $\unit[850]{kg}$ und vorderster Schwerpunktlage ermittelt:\\
+
+\textbf{Mit Motor im Leerlauf:}
+ACHTUNG! Daten noch nicht komplett eingetragen - Stand 2022-07-11
+\begin{longtable}{l l l}
+WK $-2$ & & \\
+& Geradeaus: & $\unit[80]{\frac{km}{h}}$\\
+& $5^{\circ}$ schiebend: & $\unit[80]{\frac{km}{h}}$\\
+& $45^{\circ}$-Kurve: & $\unit[95]{\frac{km}{h}}$\\
+%& &  \\
+\hline
+& &  \\
+WK $-1$ & & \\
+& Geradeaus: & $\unit[70]{\frac{km}{h}}$\\
+& $5^{\circ}$ schiebend: & $\unit[70]{\frac{km}{h}}$\\
+& $45^{\circ}$-Kurve: & $\unit[88]{\frac{km}{h}}$\\
+%& &  \\
+\hline
+& &  \\
+WK $0$ & & \\
+& Geradeaus: & $\unit[70]{\frac{km}{h}}$\\
+& $5^{\circ}$ schiebend: & $\unit[70]{\frac{km}{h}}$\\
+& $45^{\circ}$-Kurve: & $\unit[90]{\frac{km}{h}}$\\
+%& &  \\
+\hline
+& &  \\
+WK $+1$ & & \\
+& Geradeaus: & $\unit[80]{\frac{km}{h}}$\\
+& $5^{\circ}$ schiebend: & $\unit[80]{\frac{km}{h}}$\\
+& $45^{\circ}$-Kurve: & $\unit[89]{\frac{km}{h}}$\\
+%& &  \\
+\hline
+ & & \\
+WK $+2$ & & \\
+& Geradeaus: & $\unit[79]{\frac{km}{h}}$\\
+& $5^{\circ}$ schiebend: & $\unit[79]{\frac{km}{h}}$\\
+& $45^{\circ}$-Kurve: & $\unit[85]{\frac{km}{h}}$\\
+%& &  \\
+\hline
+& &  \\
+WK L& & \\
+& Geradeaus: & $\unit[70]{\frac{km}{h}}$\\
+& $5^{\circ}$ schiebend: & $\unit[70]{\frac{km}{h}}$\\
+& $45^{\circ}$-Kurve: & $\unit[88]{\frac{km}{h}}$\\
+& geradeaus, Bremsklappe + Fahrwerk aus: & $\unit[78]{\frac{km}{h}}$ \\
+\end{longtable}
+
+
+
 \section{Fahrtmessermarkierungen}
 Die folgende Tabelle nennt die Fahrtmessermarkierungen und die Bedeutung der Farben:\\
 
@@ -123,7 +175,7 @@ Weißer Bogen & $80-180$ & Betriebsbereich für positive Klappenausschläge (Unt
 \newline
 
 \vspace{0.2cm}
-Die B13 hat keine speziellen Fahrtmessermarkierungen für den Motorbetrieb.
+Die B13 hat keine speziellen Fahrmessermarkierungen für den Motorbetrieb.
 \newpage
 \section{Triebwerk}
 \begin{color}{red}
@@ -141,7 +193,7 @@ Motor Modell: & Emrax 208 LowVoltage AirCooled\\
 \begin{tabular}{p{0.6\textwidth}p{0.3\textwidth}ll}
 Maximale Dauerleistung: & $\unit[22]{kW}$\\
 Maximale Leistung für 2 Minuten: & $\unit[30]{kW}$\\
-Maximale Drehzahl: & $\unit[5000]{1/min}$
+Maximale Drehzahl: & $\unit[5000]{min^{-1}}$
 \end{tabular}
 
 \subsection{Propeller}
@@ -152,8 +204,8 @@ Modell: & B13e Faltpropeller V01 \\
 
 \vspace{0.2cm}
 \begin{tabular}{p{0.6\textwidth}p{0.3\textwidth}ll}
-Maximale Dauerdrehzahl: & $\unit[3000]{u/min}$ \\
-Kurzzeitige Überdrehzahl: & $\unit[3200]{u/min}$ \\
+Maximale Dauerdrehzahl: & $\unit[3000]{min^{-1}}$ \\
+Kurzzeitige Überdrehzahl: & $\unit[3200]{min^{-1}}$ \\
 \end{tabular}
 
 \subsection{Akkupacks}
@@ -222,13 +274,13 @@ Die Antriebskomponenten der B13 wurden so positioniert, dass ein großer Zuladun
 
 \begin{color}{red}
 \large{\underline{Warnung}}\\
-Ein Flug mit ausgebautem Motor ist nur in Verbindung mit einer neuen Wägung zulässig. Ein Ausbau des Antriebsstrangs erhöht in deutlichem Maße die Mindestzuladung.
+Ein Flug mit ausgebautem Motor ist nur in Verbindung einer neuen Wägung zulässig. Ein Ausbau des Antriebsstrangs erhöht in deutlichem Maße die Mindestzuladung.
 \end{color}\\
 
 
 \begin{color}{red}
 \large{\underline{Warnung}}\\
-Ein Flug mit ausgebautem Akkupack ist nur in Verbindung mit einer neuen Wägung zulässig. Ein Ausbau der Akkupacks erhöht in deutlichem Maße die Mindestzuladung.
+Ein Flug mit ausgebautem Akkupack ist nur in Verbindung einer neuen Wägung zulässig. Ein Ausbau der Akkupacks erhöht in deutlichem Maße die Mindestzuladung.
 \end{color}\\
 
 \subsection{Wägebericht}
@@ -270,6 +322,7 @@ Datum & Leermasse [$\unit{kg}$] & Leermassen- schwerpunkt [$\unit{mm}$]  & Maxim
 Der Motorsegler B13 ist für den normalen Segelflug (Lufttüchtig"-keits"-gruppe "`Utility"') zugelassen.\\
 \newline
 \begin{color}{red}
+\large{\underline{Warnung}}\\
 \textbf{Kunstflug ist nicht zulässig}
 \end{color}
 
